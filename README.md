@@ -18,4 +18,4 @@ using hybrid recommendation techniques.
 
 ## Authors
 - Apoorva L N
-- Varsha
+- B S Varsha
